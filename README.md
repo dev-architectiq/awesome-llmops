@@ -113,6 +113,7 @@ LLMOps is the practice of operationalizing LLMs — from prompt management and e
 
 ## Observability & Monitoring
 
+- [Noveum](https://noveum.ai/) - Agent tracing, evaluation datasets, and model quality, latency, and cost comparisons.
 - [LangSmith](https://smith.langchain.com/) - Full-stack observability for LLM applications.
 - [Langfuse](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform with tracing.
 - [Arize AI](https://arize.com/) - ML observability with LLM-specific dashboards.
