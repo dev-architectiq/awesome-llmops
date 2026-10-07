@@ -124,6 +124,7 @@ LLMOps is the practice of operationalizing LLMs — from prompt management and e
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Open-source ML observability for LLM apps.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) - OpenTelemetry-based instrumentation for LLMs.
 - [Portkey](https://portkey.ai/) - AI gateway with unified observability.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw agents with token usage, sessions, trends.
 
 ## Cost Optimization
 
